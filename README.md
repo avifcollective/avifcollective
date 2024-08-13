@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avifcollective
+- 👋 Hi, I’m @avifcollective (also known as Samu)
 - 🖥️ My website is `samu.lol`
 - 👀 I’m interested in photography, computers and videogames!
 - 📫 How to reach me: `github@samu.lol` (EMAIL) or `@samu.lol` (DISCORD)
