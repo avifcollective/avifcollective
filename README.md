@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @avifcollective
+- 🖥️ My website is `samu.lol`
+- 👀 I’m interested in photography, computers and videogames!
+- 📫 How to reach me: `github@samu.lol` (EMAIL) or `@samu.lol` (DISCORD)
+- 😄 Pronouns: he/him
